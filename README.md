@@ -32,6 +32,14 @@ The system manages:
 
 ---
 
+## 🗄️ Database Schema
+
+The following ER Diagram represents the database structure and relationships used in the Banking Management System.
+
+![ER Diagram](ER_Diagram.png)
+
+---
+
 ## 📂 Database Tables
 
 1. Customers
